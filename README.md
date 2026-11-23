@@ -122,3 +122,7 @@ MIT, see `LICENSE`.
 
 - [LocalSend](https://localsend.org) and its [protocol](https://github.com/localsend/protocol) (Apache-2.0). This is an independent implementation.
 - [Python for S60](https://sourceforge.net/projects/pys60/) by Nokia (the runtime this targets; not included).
+
+## Part of the RetroArchive ecosystem
+
+Extracted from [RetroSend](https://github.com/manojanasuri16/RetroSend). All apps, guides and open-source repos are listed on [RetroArchive](https://manojanasuri16.github.io/RetroArchive/) (see the [Open source page](https://manojanasuri16.github.io/RetroArchive/opensource/)); the build toolchain is [symbian-s60v3-toolchain](https://github.com/manojanasuri16/symbian-s60v3-toolchain).
