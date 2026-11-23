@@ -1,0 +1,9 @@
+*.pyc
+*.pyo
+__pycache__/
+*.pem
+*.key
+*.log
+*.sis
+*.sisx
+.DS_Store
